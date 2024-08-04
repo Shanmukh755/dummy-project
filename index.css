@@ -1,0 +1,83 @@
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+    height: 110vh;
+    padding: 30px;
+}
+
+.main-heading {
+    font-display: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    color: #132d84;
+}
+
+.h-center {
+    text-align: center;
+}
+
+.image {
+    height: 50vh;
+    margin-top: 80px;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.get-started-button {
+    border-width: 0px;
+    border-radius: 5px;
+    background-color: #132d84;
+    height: 35px;
+    width: 90px;
+    font-size: 13px;
+    color: white;
+}
+
+.bg-yoga-container {
+    background-color: #ffedcb;
+    background-size: cover;
+    padding: 35px;
+}
+
+.yoga-image {
+    height: 30vh;
+}
+
+.yoga-heading {
+    font-size: 25px;
+    margin: 10px;
+    color: #132d84;
+    font-weight: 500;
+}
+
+.yoga-card-container {
+    background-color: #ffe2ab;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.mini-image {
+    height: 110px;
+    margin-right: 15px;
+}
+
+.yoga-sub-heading {
+    font-size: 20px;
+    color: #253263;
+    text-align: left;
+    font-weight: 500;
+}
+
+.yoga-sub-description {
+    font-size: 13px;
+    color: #253263;
+    text-align: left;
+    font-weight: 400;
+}
